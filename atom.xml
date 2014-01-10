@@ -4,7 +4,7 @@
   <title><![CDATA[Rafael Silvério da Silva]]></title>
   <link href="http://rafasilverio.github.io/atom.xml" rel="self"/>
   <link href="http://rafasilverio.github.io/"/>
-  <updated>2014-01-10T00:10:57-02:00</updated>
+  <updated>2014-01-10T00:31:22-02:00</updated>
   <id>http://rafasilverio.github.io/</id>
   <author>
     <name><![CDATA[Rafael Silvério da Silva]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Primeiras Impressões Com O AngularJs]]></title>
+    <link href="http://rafasilverio.github.io/blog/2014/01/10/primeiras-impressoes-com-o-angularjs/"/>
+    <updated>2014-01-10T00:27:41-02:00</updated>
+    <id>http://rafasilverio.github.io/blog/2014/01/10/primeiras-impressoes-com-o-angularjs</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Primeiro Post Utilizando Octopress]]></title>
