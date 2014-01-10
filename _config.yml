@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://rafasilverio.github.io
+title: Rafael Silvério da Silva
+subtitle: Blog.
+author: Rafael Silvério da Silva
 simple_search: http://google.com/search
 description:
 
@@ -63,8 +63,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: rafasilverio
+github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
