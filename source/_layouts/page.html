@@ -6,7 +6,7 @@ comments: true
 <article role="article">
   {% if page.title %}
   <header>
-    <div class="jumbotron">
+    <div class="jumbotron" style="color:#47a447;">
       {% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
     </div>
     {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
