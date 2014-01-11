@@ -4,10 +4,11 @@
 
 url: http://rafasilverio.github.io
 title: Rafael Silvério da Silva
-subtitle: Blog.
+subtitle: "Blog sobre desenvolvimento e novas tecnologias, aqui você encontrará tutoriais sobre desenvolvimento, reviews de tecnologias, artigos e muito mais."
 author: Rafael Silvério da Silva
 simple_search: http://google.com/search
-description:
+keywords: "ruby on rails, ruby, rails, angularjs, java, javascript, nodejs, css3, css, html5, tutorial web, tutoriais, rafael silverio, github"
+description: "Blog sobre desenvolvimento e novas tecnologias, aqui você encontrará tutoriais sobre desenvolvimento, reviews de tecnologias, artigos e muito mais."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
