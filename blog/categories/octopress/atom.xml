@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | Rafael Silvério da Silva]]></title>
+  <title><![CDATA[Category: octopress | Rafael Silvério da Silva]]></title>
   <link href="http://rafasilverio.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://rafasilverio.github.io/"/>
-  <updated>2014-01-10T01:33:11-02:00</updated>
+  <updated>2014-01-10T22:57:12-02:00</updated>
   <id>http://rafasilverio.github.io/</id>
   <author>
     <name><![CDATA[Rafael Silvério da Silva]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Primeiro Post Utilizando Octopress]]></title>
-    <link href="http://rafasilverio.github.io/blog/2014/01/10/primeiro-post-utilizando-octopress/"/>
+    <link href="http://rafasilverio.github.io/blog/10/01/2014/primeiro-post-utilizando-octopress/"/>
     <updated>2014-01-10T00:00:57-02:00</updated>
-    <id>http://rafasilverio.github.io/blog/2014/01/10/primeiro-post-utilizando-octopress</id>
+    <id>http://rafasilverio.github.io/blog/10/01/2014/primeiro-post-utilizando-octopress</id>
     <content type="html"><![CDATA[<p>Testando o Octopress e subindo no github pages.</p>
 ]]></content>
   </entry>

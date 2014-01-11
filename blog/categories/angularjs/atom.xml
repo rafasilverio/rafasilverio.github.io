@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: angularJs | Rafael Silvério da Silva]]></title>
+  <link href="http://rafasilverio.github.io/blog/categories/angularjs/atom.xml" rel="self"/>
+  <link href="http://rafasilverio.github.io/"/>
+  <updated>2014-01-10T22:57:12-02:00</updated>
+  <id>http://rafasilverio.github.io/</id>
+  <author>
+    <name><![CDATA[Rafael Silvério da Silva]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Primeiras impressões com o AngularJs]]></title>
+    <link href="http://rafasilverio.github.io/blog/10/01/2014/primeiras-impressoes-com-o-angularjs/"/>
+    <updated>2014-01-10T00:27:41-02:00</updated>
+    <id>http://rafasilverio.github.io/blog/10/01/2014/primeiras-impressoes-com-o-angularjs</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
